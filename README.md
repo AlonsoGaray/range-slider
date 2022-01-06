@@ -29,7 +29,7 @@ Made by AlonsoGaray
 [Range Slider](https://range-slider-alonso.netlify.app/)
 ![alt text](https://raw.githubusercontent.com/AlonsoGaray/range-slider/main/src/Project.png)
 
-This exercise is to keep practicing our javascript skills, mainly focused on with useState. The goal that we needed to achieve was to make a simple pomodoro timer.
+This exercise is to keep practicing our javascript skills, mainly focused on with useState. The goal that we needed to achieve was to make a simple Range Slider feature.
 
 ### Built With
 
